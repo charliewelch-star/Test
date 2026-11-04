@@ -17,3 +17,5 @@ Another test
 Another change
 
 Some further changes after deleting file
+
+Some algebra $X + Y$
