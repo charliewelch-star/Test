@@ -6,4 +6,4 @@ Here's our todo:
 - [X] Make our first commit
 This is a change
 This is a whole new change
-- [ ] Fix this tpyo
+- [ ] Fix this typo
