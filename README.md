@@ -15,3 +15,5 @@ Yet another change
 Another test
 
 Another change
+
+Some further changes after deleting file
