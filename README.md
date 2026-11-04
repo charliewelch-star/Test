@@ -7,3 +7,5 @@ Here's our todo:
 This is a change
 This is a whole new change
 - [ ] Fix this typo
+
+Another change
